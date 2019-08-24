@@ -1,0 +1,116 @@
+.bloodbanknav{
+    background-color: #CF797E !important;
+}
+
+.bld-bnk-li{
+    border-radius: 3.5px;
+    background-color: #DDDDDD;
+}
+
+.bld-bnk-link{
+    text-shadow: 0.25px 0.5px black ;
+}
+
+.bld-bnk-link:hover{
+    background-color: #DDDDDD ;
+    border-radius: 4px !important;
+    color: #D13949 !important;
+    text-shadow: none;
+}
+
+.bld-bnk-lis{
+    color: white !important;
+}
+
+.slides-frame{
+    background-color: #EEE6D7;
+}
+
+.slides-pic{
+    border: 3.5px solid #E8CFBF;
+}
+
+.frame-footer{
+    background-color: #A92E3A;
+    height: 40px;
+    width: 100%;
+}
+
+.bld-bnk-caption{
+    color: #916D69;
+}
+
+.lastnews{
+    overflow: hidden;
+}
+.new-animation{
+    animation-duration: 30s;
+}
+
+.footer-home .navbar{
+    background-color: #E8CFBF !important;
+}
+
+.f-nav-li:hover{
+    background-color: #CE3947;
+    text-shadow: 0.5 0.25 black;
+    border-radius: 4px;
+}
+
+.f-nav-li:hover .f-nav-link{
+    color: white !important;
+}
+
+.f-nav-li-fhome{
+    background-color: #CE3947;
+    text-shadow: 0.5 0.25 black;
+    border-radius: 4px;
+}
+
+.f-nav-linkhome{
+    color: white !important;
+}
+
+.form-doner{
+    background-color: #F8F1E4;
+    border-width: 2px !important;
+
+}
+
+.col-md-3 img{
+    height: 390px
+}
+
+div ul li {
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
